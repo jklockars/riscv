@@ -1,11 +1,11 @@
-This is an as yet unnamed implementation of RISC-V32i in VHDL.
+This is an as yet unnamed implementation of RISC-V32i in VHDL, under the GPLv3.
 It satisfies the standard compliance tests, tested using a build for riscvOVPsim.
 
 I started working on this CPU on November 8, since a colleague mentioned that there was a competition going on. It sounded like fun, but I quickly realized that I would have to do this outside the actual competition since VHDL was not allowed...
 
 Now it is November 26, and I really need some time off from this. Far too many evenings have been spent in front of the computer over these past three weeks (and I actually took today off from work to get the final compliance tests and interrupts working).
 
-The current check-in is only the final result of this work. I will go back and put up the full day by day history of the code later.
+The current check-in is only the final result of this work. I will go back and put up the full day by day history of the code later. This is all really in need of a clean-up, but the deadline is in a couple of hours, and it is now 4am here...
 
 Design
 
